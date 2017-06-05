@@ -1,0 +1,36 @@
+/*通用css*/
+body{
+	font: 12px "microsoft yahei",arial,verdana;
+	color: #666;
+	margin: 0px;  padding: 0px;
+}
+dl,dt,dd{
+	margin: 0px;	padding: 0px;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6{
+	margin: 0px;  padding: 0px;
+	list-style: none;
+	border: none;
+}
+input{
+	border: none;
+}
+.lf{
+	float: left;
+}
+.rf{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+a{
+	color: #666;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	color: #ff0700;
+}
+
+
